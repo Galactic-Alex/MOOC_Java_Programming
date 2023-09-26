@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Part13_01.MyFirstApplication:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Part13_01_MyFirstApplication_jar</output-path>
+    <root id="archive" name="Part13_01.MyFirstApplication.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="E:/Programming/Java Course/Jar Test/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Part13_01.MyFirstApplication" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/11.0.2/javafx-graphics-11.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/11-ea+25/javafx-controls-11-ea+25-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/11-ea+25/javafx-graphics-11-ea+25-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/11.0.2/javafx-base-11.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/11.0.2/javafx-controls-11.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/11-ea+25/javafx-base-11-ea+25-win.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
