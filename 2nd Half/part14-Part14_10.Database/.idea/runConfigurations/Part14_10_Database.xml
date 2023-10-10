@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part14_10.Database" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="application.Progam" />
+    <module name="Part14_10.Database" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
